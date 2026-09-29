@@ -1,1 +1,3 @@
-print(__name__)
+
+name= "Sara"  
+sprint (name)
