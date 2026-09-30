@@ -1,3 +1,2 @@
-
-name= "Sara"  
-sprint (name)
+name = "sara"
+print(name)                                                                                                                                   
