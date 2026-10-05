@@ -1,0 +1,5 @@
+if __name__ == '__main__':
+    for i in range(5, 99, 5):
+        print(i)
+    else:
+        print("The for statement executed without a break.")
